@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Arbaazzz
--  Analytics, Data Science, Data Engineering.
-- 👀 I’m interested in Data,Tech and Business
-- 📊📈💻🧑‍💻 Solving business problems using data and tech.
-- 🌱 I’m currently learning pursuing Masters in Big Data Analytics 
-- 📫 How to reach me
- LinkedIn - https://www.linkedin.com/in/arbaaz-sayyed-2b858418a
- Email - sayyed.arbaaz607@gmail.com
+- 👀 I’m interested in Data,Tech and Business Analytics, Data Science, Data Engineering
+- 📊🧑‍💻 Solving business problems using data and tech.
+- 🌱 I’m currently pursuing Masters in Big Data Analytics 
+- 📫
+ - LinkedIn - https://www.linkedin.com/in/arbaaz-sayyed-2b858418a
+ - Email - sayyed.arbaaz607@gmail.com
 
 <!---
 arbaazx/arbaazx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
